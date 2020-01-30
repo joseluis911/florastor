@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/"><img src="<?php bloginfo('template_directory');?>/images/CA-Florastor-logo.svg"></a>
+      <a class="navbar-brand" href="/"><img src="<?php bloginfo('template_directory');?>/images/Florastor_Logo.jpg"></a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <form role="search" method="get" class="navbar-form navbar-right" action="/search">
@@ -24,6 +24,7 @@
       </form>
       <ul class="nav navbar-nav navbar-right">
             <li id="about"><a href="/about/">About</a></li>
+            <li id="antibiotics"><a href="/antibiotics/">Antibiotics</a></li>
             <li id="products"><a href="/products/">Products</a></li> 
             <li id="coupons"><a href="/coupons/">Coupons</a></li>
             <li id="where-to-buy"><a href="/where-to-buy/">Where To Buy</a></li>
