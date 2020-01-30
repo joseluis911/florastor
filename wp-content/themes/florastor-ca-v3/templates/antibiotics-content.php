@@ -1,6 +1,6 @@
-<?php /* Template Name: Home */ ?>
+<?php /* Template Name: Antibiotics */ ?>
 
-<?php get_header('home'); ?>
+<?php get_header('antibiotics'); ?>
 <?php get_header(); ?>
 
 <!-- <div id="video-box">
@@ -20,7 +20,7 @@
     </a>
 </div> -->
 <div id="home-hero"></div>
-<div class="container " style="padding-top:3%;">
+<!-- <div class="container " style="padding-top:3%;">
     <div class="row justify-content-center">
         <div class="col-md-10  ">
               <div class="col-md-8" style="padding-bottom:5%;">
@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- <div class="bg-0">
 <div class="container">
     <br>
@@ -73,7 +73,7 @@
     </div> 
 </div> -->
 
-<div class="bg-0">
+<!-- <div class="bg-0">
     <div class="container">
         <br>
         <h1 class="gradient"><span class="gradient">Meet the</span> <span class="gradient">
@@ -85,9 +85,9 @@
         <a href="/products/"><button class="btn-main">View Products</button></a>
         <br>
     </div>    
-</div>
+</div> -->
 
-<div class="bg-1">
+<!-- <div class="bg-1">
     <div class="container">
     <div class="row">
         <div class="col-md-7">
@@ -101,7 +101,7 @@
         <br>
     </div>
     </div>
-</div>
+</div> -->
 
 <!-- <div class="bg-0">
     <div class="container">
