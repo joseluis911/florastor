@@ -1,0 +1,15 @@
+[2017-05-19 12:14:07], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:47], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:49], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:50], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:50], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:50], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:50], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:51], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:51], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:51], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:51], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:51], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:52], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:14:58], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+[2017-05-19 12:15:51], outxml.php, SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
