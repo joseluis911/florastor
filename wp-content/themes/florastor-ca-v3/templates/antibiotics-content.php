@@ -3,35 +3,137 @@
 <?php get_header('antibiotics'); ?>
 <?php get_header(); ?>
 
-<!-- <div id="video-box">
-    <video playsinline autoplay muted loop poster="<?php bloginfo('template_directory');?>/images/CA-Biotic-poster.jpg" id="video-hero">
-        <source src="<?php bloginfo('template_directory');?>/images/CA-Biotic.webm" type="video/webm">
-        <source src="<?php bloginfo('template_directory');?>/images/CA-Biotic.mp4" type="video/mp4">
-    </video>
-    <a id="nav-video" class="yt fancybox.iframe" href="https://www.youtube.com/embed/sAiYrGvUW74?rel=0">
-    <div class="vid-hero-inner">
-        <img id="be-biotic-hero" class="img-responsive" src="<?php bloginfo('template_directory');?>/images/be-biotic-glow-2.png"/>
-        <h1 class="white-header">with Florastor<sup>&reg;</sup> Daily<sup>*</sup> Probiotics</h1>
-        <img id="play-btn" class="img-responsive" src="<?php bloginfo('template_directory');?>/images/play-button.png"/>
-        <h2 class="white-header">Watch Now</h2>
-        <br><br>
-        <a href="/coupons/"><button class="btn-main">Download Coupon</button></a>
-    </div>
-    </a>
-</div> -->
-<div id="home-hero"></div>
-<!-- <div class="container " style="padding-top:3%;">
+
+<div id="home-hero"style="padding-bottom:3%;"></div>
+<div class="container ">
     <div class="row justify-content-center">
-        <div class="col-md-10  ">
-              <div class="col-md-8" style="padding-bottom:5%;">
-                <a class="btn-save">Save Now </a>
-                </div>
-               <div class="col-md-4 ">
-                <a class=" btn-main ">Learn More </a>
-            </div>
+        <div class="col-md-12" style="background-color:#01b5d7;padding-top:1%;">
+              <h2 style="color:white">WHEN TAKING ANTIBIOTICS, PAIR IT WITH FLORASTOR</h2>
         </div>
     </div>
-</div> -->
+    <br>
+    <div class="row justify-content-center" style="color:#01274c;" >
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <p>
+                Antibiotics can kill good bacteria found in the gut and dramatically
+                change your gut.<br>leading to long term gut disturbances.
+            </p>
+            <p>
+                ____
+            </p>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <p>
+                    Diarrhea is a common side effect of antibiotic use,signaling a warning from your gut.
+            </p>
+            
+            <p>
+                ____
+            </p>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <div style="
+                                            float: left;
+                                            margin-bottom: 0px;
+                                            margin-right: 10px;
+                                        ">
+            <img src="<?php bloginfo('template_directory');?>/images/icons/micro.png" alt="">   
+            </div>
+            
+            <p>
+                Commonly used ATB lead to a <br>
+                <span style="color:#e8ba1f">25% REDUCTION</span><br>
+                 in Microbial Diversity<sup>2</sup>.
+            </p>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+        <div style="
+                                            float: left;
+                                            margin-bottom: 0px;
+                                            margin-right: 10px;
+                                        ">
+            <img src="<?php bloginfo('template_directory');?>/images/icons/social.png" alt="">   
+            </div>
+        <p>
+                <span style="color:#e8ba1f">1 OUT OF 3 PEOPLE</span> <br>
+                Experienced AAD but every one experiences dysbiosis<sup>1</sup>.
+        </p>
+
+        </div>
+    </div>
+
+</div> 
+<br>
+<div class="container  ">
+    <br>
+    <div class="row ">
+        <div class="col-md-12" style="background-color:#01b5d7;">
+              <h1 style="color:#01274c;text-align: justify;">THE ONLY <span style="color:white">PROBIOTIC</span> 
+                  RESISTANT TO ANY ** 
+                  TESTED ANTIBIOTIC!
+              </h1>
+        </div>
+    </div>
+</div>
+<div class="container">
+   <div class="row justify-content-center">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            
+            <p>
+                Florastor reduces incides of antibiotic associated diarrhea by: <br>
+                
+            </p>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+       
+
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            
+            <span style="  width: 130px;
+                            height: 130px;
+                            border-radius: 50%;
+                            font-size: 10px;
+                            color: white;
+                            line-height: 0px;
+                            text-align: center;
+                            background: #01274c;
+                            display: inline-block;">
+
+                <p style="padding-top:20%">Up to 
+                <h4>80%</h4> </p>
+                <p>in  children*</p>
+             
+            </span>
+            <span style="  width: 130px;
+                            height: 130px;
+                            border-radius: 50%;
+                            font-size: 10px;
+                            color: white;
+                            line-height: 0px;
+                            text-align: center;
+                            background: #01274c;
+                            display: inline-block;">
+
+                <p style="padding-top:20%">Up to 
+                <h4>84%</h4> </p>
+                <p>in  adults*</p>
+             
+            </span>
+
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            
+        </div>
+    </div>
+    
+
+</div>
+
 <!-- <div class="bg-0">
 <div class="container">
     <br>
