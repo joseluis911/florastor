@@ -24,7 +24,6 @@
       </form>
       <ul class="nav navbar-nav navbar-right">
             <li id="about"><a href="/about/">About</a></li>
-            <li id="antibiotics"><a href="/antibiotics/">Antibiotics</a></li>
             <li id="products"><a href="/products/">Products</a></li> 
             <li id="coupons"><a href="/coupons/">Coupons</a></li>
             <li id="where-to-buy"><a href="/where-to-buy/">Where To Buy</a></li>
